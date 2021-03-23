@@ -6,9 +6,11 @@
 
 [gitlog.txt](https://github.com/tsalonie/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
+-----------------------------------------
 
+Gitlog lienee aika sotkuinen. Aluksi oli vanha gitin versio jolla ei pystynyt tekemään restorea. Päivitin, tein restorea vaativat tehtävät vasta myöhemmin.
 
-
+-----------------------------------------
 Tässä on jotakin tekstiä, jonka muotoilen ehdotetuilla tavoilla: 
 **lihavoin**, *kursivoin* ja [linkitän](https://guides.github.com/features/mastering-markdown/)
 
