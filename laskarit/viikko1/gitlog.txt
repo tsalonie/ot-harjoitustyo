@@ -1,3 +1,5 @@
+TÄSSÄ EPÄSYNKRONOINTIKOETTA VARTEN PIENI MUUTOS TEKSTIIN
+
 commit 084b6bac87221f1f5ad3a830cac7a3229fe24311
 Author: Timo Saloniemi <timo.saloniemi@helsinki.fi>
 Date:   Tue Mar 23 10:57:35 2021 +0200
