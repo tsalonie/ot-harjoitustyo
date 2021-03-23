@@ -11,6 +11,9 @@
 Gitlog lienee aika sotkuinen. Aluksi oli vanha gitin versio jolla ei pystynyt tekemään restorea. Päivitin, tein restorea vaativat tehtävät vasta myöhemmin.
 
 -----------------------------------------
+
+Tätä on muutettu epäsynkronisointikokeeksi.
+
 Tässä on harjoitusmielessä jotakin tekstiä, jonka muotoilen ehdotetuilla tavoilla: 
 **lihavoin**, *kursivoin* ja [linkitän](https://guides.github.com/features/mastering-markdown/)
 
