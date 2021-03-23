@@ -1,0 +1,95 @@
+commit 084b6bac87221f1f5ad3a830cac7a3229fe24311
+Author: Timo Saloniemi <timo.saloniemi@helsinki.fi>
+Date:   Tue Mar 23 10:57:35 2021 +0200
+
+    kolme uutta tiedostoa
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 264072d86aa3644b9471fc9f308a5243484eaeec
+Author: Timo Saloniemi <timo.saloniemi@helsinki.fi>
+Date:   Tue Mar 23 10:49:49 2021 +0200
+
+    kahden tiedoston sisallon muutoksia
+
+ eka.txt    | 2 +-
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit 2544b2f468f4399344b4d863c032942032300323
+Author: Timo Saloniemi <timo.saloniemi@helsinki.fi>
+Date:   Tue Mar 23 10:47:06 2021 +0200
+
+    poisto
+
+ tiedosto.txt | 3 ---
+ 1 file changed, 3 deletions(-)
+
+commit f84068479fcec1500bc2853d7a400bcf3491fd46
+Author: Timo Saloniemi <timo.saloniemi@helsinki.fi>
+Date:   Tue Mar 23 10:45:32 2021 +0200
+
+    poisto ja uudelleennimeaminen
+
+ eka.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 397edcce5d530063876bb5429af403e197498565
+Author: Timo Saloniemi <timo.saloniemi@helsinki.fi>
+Date:   Tue Mar 23 10:42:28 2021 +0200
+
+    tiedosto.txt nimetty eka.txtksi
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit f09b1ef002450b85cb6091cf281b1dbd0afbf9fc
+Author: Timo Saloniemi <timo.saloniemi@helsinki.fi>
+Date:   Thu Mar 18 12:56:55 2021 +0200
+
+    uusi hakemisto
+
+ stuff/turha.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 1495c504657efd4afc1e1fe93286c294f935467f
+Author: Timo Saloniemi <timo.saloniemi@helsinki.fi>
+Date:   Thu Mar 18 12:55:25 2021 +0200
+
+    muutos toiseen ja kolmanteen
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit bcd3ca1b089dbcb312ee994f1c822e33186a114a
+Author: Timo Saloniemi <timo.saloniemi@helsinki.fi>
+Date:   Thu Mar 18 12:51:15 2021 +0200
+
+    toinen lisäys
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit fe364944b26c230594f81f4b8feb551059b6e637
+Author: Timo Saloniemi <timo.saloniemi@helsinki.fi>
+Date:   Thu Mar 18 12:48:44 2021 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 3 +++
+ toinen.txt   | 0
+ 2 files changed, 3 insertions(+)
+
+commit 252cda64067ac9229fc6f6b5aa5030c3c088a1ae
+Author: Timo Saloniemi <timo.saloniemi@helsinki.fi>
+Date:   Thu Mar 18 12:45:53 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
