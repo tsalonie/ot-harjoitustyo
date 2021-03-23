@@ -21,5 +21,5 @@ Sama hierarkkisesti:
 
 Tähän tulevat tehtävässä vaaditut linkit:
 
-komentorivi.txt
-gitlog.txt
+[komentorivi.txt](https://github.com/tsalonie/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
+[gitlog.txt](https://github.com/tsalonie/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
