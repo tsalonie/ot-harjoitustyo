@@ -11,7 +11,7 @@
 Gitlog lienee aika sotkuinen. Aluksi oli vanha gitin versio jolla ei pystynyt tekemään restorea. Päivitin, tein restorea vaativat tehtävät vasta myöhemmin.
 
 -----------------------------------------
-Tässä on jotakin tekstiä, jonka muotoilen ehdotetuilla tavoilla: 
+Tässä on harjoitusmielessä jotakin tekstiä, jonka muotoilen ehdotetuilla tavoilla: 
 **lihavoin**, *kursivoin* ja [linkitän](https://guides.github.com/features/mastering-markdown/)
 
 Teen tähän myös listan:
