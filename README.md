@@ -18,3 +18,8 @@ Sama hierarkkisesti:
 	1. Alakohta a
 	1. Alakohta b
 1. Kolmas asia
+
+Tähän tulevat tehtävässä vaaditut linkit:
+
+komentorivi.txt
+gitlog.txt
