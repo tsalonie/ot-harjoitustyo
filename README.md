@@ -1,4 +1,13 @@
-# Tämä on Markdown-harjoitus
+# Ohjelmistotekniikka, harjoitustyö
+## Tehtävät
+### Viikko 1
+
+[komentorivi.txt](https://github.com/tsalonie/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
+
+[gitlog.txt](https://github.com/tsalonie/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+
+
+
 
 Tässä on jotakin tekstiä, jonka muotoilen ehdotetuilla tavoilla: 
 **lihavoin**, *kursivoin* ja [linkitän](https://guides.github.com/features/mastering-markdown/)
@@ -19,7 +28,4 @@ Sama hierarkkisesti:
 	1. Alakohta b
 1. Kolmas asia
 
-Tähän tulevat tehtävässä vaaditut linkit:
 
-[komentorivi.txt](https://github.com/tsalonie/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
-[gitlog.txt](https://github.com/tsalonie/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
