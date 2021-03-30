@@ -9,3 +9,6 @@
 ### Viikko 2
 
 [alustava_maarittelydokumentti.md](https://github.com/tsalonie/ot-harjoitustyo/blob/master/dokumentaatio/alustava_maarittelydokumentti.md)
+
+Maksukortin testit tehty ja toimivat. En saanut testikattavuustaulukkoa näkymään selaimessa enkä siis päässyt kattavuustestaamisessa puusta pitkään. 
+Maksupäätteen testit tehty ja toimivat. Sama ongelma.
