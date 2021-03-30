@@ -8,4 +8,4 @@
 
 ### Viikko 2
 
-[alustava_maarittelydokumentti.txt](https://github.com/tsalonie/ot-harjoitustyo/blob/master/dokumentaatio/alustava_maarittelydokumentti.txt)
+[alustava_maarittelydokumentti.md](https://github.com/tsalonie/ot-harjoitustyo/blob/master/dokumentaatio/alustava_maarittelydokumentti.md)
