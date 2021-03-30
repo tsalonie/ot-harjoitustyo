@@ -30,3 +30,4 @@ käyttäjä voi kirjautua ulos järjestelmästä.
 Perusversion jälkeen järjestelmää täydennetään ajan salliessa esim. seuraavilla toiminnallisuuksilla:
 
 Käyttäjä voi hakea artikkeleita avainsanoilla.
+Artikkeleihin voi liittää muotoilua.
